@@ -4,7 +4,7 @@ import { storyNarration } from '../utils/narration';
 
 const STORY_SLIDES = [
   {
-    image: '/@fs/C:/Users/hp/.gemini/antigravity-ide/brain/b6e06efb-c1c8-443b-bc4c-3af508ea7ca2/story_toyshop_1783867121365.png',
+    image: '/assets/images/story_toyshop_1783867121365.png',
     title: "Leo's Robot Dream",
     text: "Leo really wants the new toy robot in the shop window. The price tag says $12.50. The number before the dot tells him the whole dollars, and the numbers after the dot are the parts of a dollar — the cents! Decimals help us count money perfectly.",
     // Phonetic: $12.50 → "12 point 5 zero dollars"
@@ -13,7 +13,7 @@ const STORY_SLIDES = [
     mascotText: "12 whole dollars and 50 cents! 🤖",
   },
   {
-    image: '/@fs/C:/Users/hp/.gemini/antigravity-ide/brain/b6e06efb-c1c8-443b-bc4c-3af508ea7ca2/story_baking_1783867139746.png',
+    image: '/assets/images/story_baking_1783867139746.png',
     title: "Baking a Cake",
     text: "Later, Leo helps his mom bake a cake. The recipe needs exactly 1.25 kg of flour. The '2' is in the tenths place, and the '5' is in the hundredths place. Every tiny bit matters in baking, and decimals help us measure exactly what we need!",
     // Phonetic: 1.25 -> "1 point 2 5"
@@ -23,7 +23,7 @@ const STORY_SLIDES = [
     objectPosition: "bottom"
   },
   {
-    image: '/@fs/C:/Users/hp/.gemini/antigravity-ide/brain/b6e06efb-c1c8-443b-bc4c-3af508ea7ca2/story_race_1783867158204.png',
+    image: '/assets/images/story_race_1783867158204.png',
     title: "The Running Race",
     text: "At school, Leo runs a race in 14.8 seconds. His friend runs it in 14.08 seconds. Who was faster? 14.8 has 8 tenths, but 14.08 has 0 tenths! So Leo took more time. His friend was faster!",
     // Phonetic: 14.8 -> "14 point 8", 14.08 -> "14 point zero 8"
@@ -32,7 +32,7 @@ const STORY_SLIDES = [
     mascotText: "0 tenths < 8 tenths! 🏃",
   },
   {
-    image: '/@fs/C:/Users/hp/.gemini/antigravity-ide/brain/b6e06efb-c1c8-443b-bc4c-3af508ea7ca2/story_ribbon_1783867174776.png',
+    image: '/assets/images/story_ribbon_1783867174776.png',
     title: "The Ribbon Cut",
     text: "In art class, Leo needs a ribbon exactly 3.5 meters long. He cuts a ribbon that is 3.50 meters long. His teacher smiles and says they are exactly the same length! Adding a zero at the end doesn't change the value.",
     // Phonetic: 3.5 -> "3 point 5", 3.50 -> "3 point 5 zero"
@@ -41,7 +41,7 @@ const STORY_SLIDES = [
     mascotText: "Zeros at the end are invisible! 🎀",
   },
   {
-    image: '/@fs/C:/Users/hp/.gemini/antigravity-ide/brain/b6e06efb-c1c8-443b-bc4c-3af508ea7ca2/story_quiz_1783867191782.png',
+    image: '/assets/images/story_quiz_1783867191782.png',
     title: "The Decimal Expert",
     text: "Leo gets an 'A' on his math quiz! He realizes decimals aren't just numbers on a page — they are everywhere in the real world, helping us measure things perfectly. Now, he's a true Decimal Explorer!",
     // Match audioMap key exactly (no quotes around A)
